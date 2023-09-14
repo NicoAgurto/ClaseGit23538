@@ -1,6 +1,17 @@
+Descarga e instalacion de git
+
 Git Init 
+
 
 git config --global user.name "usuarioDeGithub"
 git config --global user.email "emailDeGithub"
 
 git config --global -e
+
+git add . (va a pasar todos los archivos al area de ensayo)
+
+git status
+
+git branch -M main
+git remote add origin https://github.com/NicoAgurto/ClaseGit23538.git (relacione mi git con github)
+git push -u origin main (subir los archivos a github)
