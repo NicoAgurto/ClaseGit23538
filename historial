@@ -1,0 +1,6 @@
+Git Init 
+
+git config --global user.name "usuarioDeGithub"
+git config --global user.email "emailDeGithub"
+
+git config --global -e
